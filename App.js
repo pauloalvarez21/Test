@@ -1,12 +1,5 @@
 import React, { Component } from 'react';
-import {
-  SafeAreaView,
-  StyleSheet,
-  ScrollView,
-  View,
-  Text,
-  StatusBar,
-} from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import HomeView from './src/view/HomeView';
 
 export default class App extends Component<Props>  {
